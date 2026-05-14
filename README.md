@@ -154,10 +154,6 @@ Metodologia focada na redução de desperdícios e otimização de processos.
 
 # Comparação entre Metodologias
 
-<img width="1847" height="559" alt="Captura de tela 2026-05-14 153639" src="https://github.com/user-attachments/assets/376ab5ca-4549-4ee4-ad4e-476d14935bc9" />
-
-
-
 | Característica | Scrum | Kanban |
 |---|---|---|
 | Estrutura | Sprints | Fluxo contínuo |
@@ -176,9 +172,6 @@ Desenvolvimento de um sistema de gestão laboratorial utilizando metodologias á
 ---
 
 ## Product Backlog
-
-<img width="726" height="236" alt="Captura de tela 2026-05-14 154209" src="https://github.com/user-attachments/assets/d28797b9-2b3d-4a3e-ae64-7a51d89c6d69" />
-
 
 | Prioridade | Funcionalidade | Objetivo |
 |---|---|---|
